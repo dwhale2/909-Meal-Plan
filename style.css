@@ -5,3 +5,8 @@
     font-weight:bold
     
 }
+
+.food_image {
+    width: auto;
+    height: 250px;
+}
